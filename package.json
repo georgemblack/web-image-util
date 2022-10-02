@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "format": "prettier ./src --write"
+  },
+  "dependencies": {
+    "sharp": "^0.31.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
